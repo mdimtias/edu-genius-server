@@ -1,0 +1,2 @@
+# Edu-Genius-Server Project
+Edu-Genius-Server is the backend server for the Edu-Genius project, an online platform for purchasing educational courses and providing user reviews. This server is built using Express.js, a powerful and flexible web application framework for Node.js. It handles API requests, manages the database, and ensures smooth communication between the frontend and database. 
